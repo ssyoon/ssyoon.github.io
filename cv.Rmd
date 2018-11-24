@@ -1,5 +1,6 @@
-### Publications
 <br>
+
+### Publications
 
 - Silberzahn, R., Uhlmann, E. L., Martin, D. P., Anselmi, P., ... Yoon, S., & Nosek, B. A. "Many analysts, one data set: Making transparent how variations in analytic choices affect results." Advances in Methods and Practices in Psychological Science (2018) [[Link]](https://journals.sagepub.com/doi/abs/10.1177/2515245917747646)
 
