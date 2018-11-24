@@ -1,5 +1,5 @@
 name: "sangsuk's website"
-output_dir: "."
+
 navbar: 
   title: "Sangsuk's Website"
   left: 
@@ -9,3 +9,12 @@ navbar:
       href: about.html
     - text: "CV"
       href: cv.html
+  right:
+  - icon: fa-envelope-o
+    href: mailto:syoon1@udayton.edu
+  - icon: fa-github
+    href: https://github.com/ssyoon
+  - icon: fa-twitter
+    href: https://twitter.com/mind314
+    
+output_dir: "."
