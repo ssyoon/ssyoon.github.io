@@ -1,7 +1,7 @@
 name: "Sangsuk Yoon"
 
 navbar: 
-  title: "Sangsuk's Website"
+  title: "Sangsuk Yoon"
   left: 
     - text: "Home"
       href: index.html
@@ -18,3 +18,9 @@ navbar:
       href: https://twitter.com/mind314
     
 output_dir: "."
+  
+html_document:
+  theme: readable
+  highlight: textmate
+  lib_dir: site_libs
+  self_contained: no
