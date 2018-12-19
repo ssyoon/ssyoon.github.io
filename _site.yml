@@ -7,7 +7,7 @@ navbar:
       href: index.html
     - text: "About Me"
       href: about.html
-    - text: "CV"
+    - text: "Publications"
       href: cv.html
   
   right:
