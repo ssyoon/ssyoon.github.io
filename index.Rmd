@@ -2,4 +2,4 @@
 title: "Sangsuk's Website"
 ---
 
-Hello, world!
+Welcome to visit my website. This is my personal website and is still in a preliminary status. I'll try to keep updating it. 
