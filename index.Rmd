@@ -2,4 +2,15 @@
 title: "Sangsuk's Website"
 ---
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-141187239-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-141187239-1');
+</script>
+
+
 Welcome to visit my website. This is my personal website and is still in a preliminary status. I'll try to keep updating it. 

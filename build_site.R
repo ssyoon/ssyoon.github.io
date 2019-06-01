@@ -1,2 +1,2 @@
-setwd("/users/syoon1/Documents/personalweb/ssyoon.github.io")
+setwd("/users/syoon1/Documents/website/ssyoon.github.io")
 rmarkdown::render_site()
