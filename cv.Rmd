@@ -1,6 +1,10 @@
 <br>
 
 ### Publications
+- Venkatraman, V. & **Yoon, S.** "Adaptivity in decision-making strategies across age: Process insights and implications" Journal of Marketing Behavior (in press) 
+
+- **Yoon, S.**, Fong, N., & Dimoka, A. "The robustness of anchoring effects on preferential judgments." Judgment and Decision Making (2019) [[Link]](http://www.sjdm.org/journal/19/190426/jdm190426.pdf)
+
 - **Yoon, S.**, & Fong, N. "Uninformative anchors have persistent effects on valuation judgments." Journal of Consumer Psychology (2019) [[Link]](https://www.researchgate.net/publication/330469173_Uninformative_Anchors_Have_Persistent_Effects_on_Valuation_Judgments)
 
 - Silberzahn, R., Uhlmann, E. L., Martin, D. P., Anselmi, P., ... **Yoon, S.**, & Nosek, B. A. "Many analysts, one data set: Making transparent how variations in analytic choices affect results." Advances in Methods and Practices in Psychological Science (2018) [[Link]](https://journals.sagepub.com/doi/abs/10.1177/2515245917747646)
