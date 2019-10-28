@@ -1,5 +1,6 @@
 name: "Sangsuk Yoon"
 
+exclude: ["_config.yml"]
 navbar:
   title: "Sangsuk Yoon"
   left:
