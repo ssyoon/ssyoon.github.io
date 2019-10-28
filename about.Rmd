@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "About"
 ---
 
 I am an Assistant Professor at University of Dayton. My research interests are to understand the underlying biases in human decision making, and seeks to apply findings from laboratory studies in judgment and decision making to real-life consumer preferences (e.g., consumer preference, financial decision making, advertisement, and risk communications). I am also interested in using a multi-methodological approach, including behavioral, computational modeling, eye-tracking and fMRI, to obtain converging evidence about the underlying mechanisms of these decision biases.

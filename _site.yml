@@ -5,7 +5,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About Me"
+    - text: "About"
       href: about.html
     - text: "Publications"
       href: cv.html
@@ -21,8 +21,8 @@ navbar:
 output_dir: "."
 
 html_document:
-  theme: cosmo
-  highlight: textmate
+  theme: yeti
+  highlight: pygments
   lib_dir: site_libs
   self_contained: no
   css: style.css
