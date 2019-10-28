@@ -21,9 +21,10 @@ navbar:
 
 output_dir: "."
 
-html_document:
-  theme: yeti
-  highlight: pygments
-  lib_dir: site_libs
-  self_contained: no
-  css: style.css
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    #lib_dir: site_libs
+    self_contained: no
+    css: style.css

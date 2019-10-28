@@ -1,5 +1,5 @@
 ---
-title: "Sangsuk's Website"
+title: "Sangsuk Yoon"
 ---
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
