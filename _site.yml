@@ -25,6 +25,6 @@ output:
   html_document:
     theme: cosmo
     highlight: textmate
-    #lib_dir: site_libs
+    lib_dir: site_libs
     self_contained: no
     css: style.css
