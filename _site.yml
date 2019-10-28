@@ -1,15 +1,15 @@
 name: "Sangsuk Yoon"
 
-navbar: 
+navbar:
   title: "Sangsuk Yoon"
-  left: 
+  left:
     - text: "Home"
       href: index.html
     - text: "About Me"
       href: about.html
     - text: "Publications"
       href: cv.html
-  
+
   right:
     - icon: fa-envelope-o
       href: mailto:syoon1@udayton.edu
@@ -17,11 +17,11 @@ navbar:
       href: https://github.com/ssyoon
     - icon: fa-twitter
       href: https://twitter.com/mind314
-    
+
 output_dir: "."
-  
+
 html_document:
-  theme: readable
+  theme: cosmo
   highlight: textmate
   lib_dir: site_libs
   self_contained: no
