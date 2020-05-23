@@ -3,7 +3,7 @@
 ### Publications
 - Venkatraman, V. & **Yoon, S.** "Adaptivity in decision-making strategies across age: Process insights and implications" Journal of Marketing Behavior (in press) 
 
-- Botvinik-Nezer, R., Holzmeister, F., ..., **Yoon, S.**, ..., & Schonberg, T. "The robustness of anchoring effects on preferential judgments." Nature (2020) [[Link]](https://www.nature.com/articles/s41586-020-2314-9)
+- Botvinik-Nezer, R., Holzmeister, F., ..., **Yoon, S.**, ..., & Schonberg, T. "Variability in the analysis of a single neuroimaging dataset by many teams." Nature (2020) [[Link]](https://www.nature.com/articles/s41586-020-2314-9)
 
 - **Yoon, S.**, Fong, N., & Dimoka, A. "The robustness of anchoring effects on preferential judgments." Judgment and Decision Making (2019) [[Link]](http://www.sjdm.org/journal/19/190426/jdm190426.pdf)
 
