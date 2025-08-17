@@ -16,12 +16,14 @@ title: "Sangsuk Yoon"
 
 <br> 
 
-I am an Assistant Professor of Marketing at University of Dayton. I'm studying cognitive biases underlying human decision making, and seek to apply findings from laboratory studies in judgment and decision making to real-life consumer preferences (e.g., consumer preference, financial decision making, advertisement, and risk communications). I am also interested in using a multi-methodological approach, including behavioral, computational modeling, eye-tracking and fMRI, to obtain converging evidence about the underlying mechanisms of decision biases.
+I am an Associate Professor of Marketing at University of Dayton. I'm studying cognitive biases underlying human decision making, and seek to apply findings from laboratory studies in judgment and decision making to consumer behavior (e.g., consumer preference, financial decision making, advertisement, and risk communications). I am also interested in using a multi-methodological approach, including behavioral, computational modeling, eye-tracking and fMRI, to obtain converging evidence about the underlying mechanisms of decision biases.
 
 
 <br><br>
 
 ### Publications
+- **Yoon, S.** & Venkatraman, V. "Choosing versus rejecting: The effect of decision mode on subsequent preferential choices" Journal of Behavioral Decision Making (2025) [[Link]](https://onlinelibrary.wiley.com/doi/10.1002/bdm.70032)
+
 - Dugan, R., Edelblum, A., Kalra, A., Lee, N. Y., & **Yoon, S**. "How social media and flexible work arrangements harden salespeople to abusive supervision" Industrial Marketing Management (2024) [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0019850124001160)
 
 - **The Forecasting Collaborative**. "Insights into the accuracy of social scientists’ forecasts of societal change" Nature Human Behavior (2023) [[Link]](https://www.nature.com/articles/s41562-022-01517-1)
