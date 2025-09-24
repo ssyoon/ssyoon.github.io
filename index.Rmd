@@ -46,8 +46,8 @@ I am an Associate Professor of Marketing at University of Dayton. I'm studying c
 
 - **Yoon, S.**, Vo, K., & Venkatraman, V. "Variability in Decision Strategies Across Description‐based and Experience‐based Decision Making." Journal of Behavioral Decision Making (2017) [[PDF]](./publications/2017_JBDM.pdf) | [[Journal]](https://onlinelibrary.wiley.com/doi/abs/10.1002/bdm.2009)
 
-- Choi, M., **Yoon, S.**, & Oh, J. "Development and Validation of the Korean Illness Perception Questionnaire (K-IPQ)." Health Communication (2016) [[PDF]](./publications/2016_KJHC.pdf) | [[Journal]](http://www.papersearch.net/thesis/article.asp?key=3490215)
+- Choi, M., **Yoon, S.**, & Oh, J. "Development and Validation of the Korean Illness Perception Questionnaire (K-IPQ)." Health Communication (2016; in Korean) [[PDF]](./publications/2016_KJHC.pdf) | [[Journal]](http://www.papersearch.net/thesis/article.asp?key=3490215)
 
 - Uehara, T., Li, B., Kim, BM., **Yoon, S. S.**, Quach, QK., Kim, H., & Chon. TS. "Inferring conflicting behavior of zebrafish (Danio rerio) in response to food and predator based on a self-organizing map (SOM) and intermittency test." Ecological Informatics (2015) [[PDF]](./publications/2015_EI.pdf) | [[Journal]](https://www.sciencedirect.com/science/article/pii/S1574954114001411)
 
-- **Yoon, S.**, & Shin, H. J. "The Effect of Substitute on WTA and WTP." The Korean Journal of Cognitive and Biological Psychology (2010) [[PDF]](./publications/2010_KJCBP.pdf) |
+- **Yoon, S.**, & Shin, H. J. "The Effect of Substitute on WTA and WTP." The Korean Journal of Cognitive and Biological Psychology (2010; in Korean) [[PDF]](./publications/2010_KJCBP.pdf) 
