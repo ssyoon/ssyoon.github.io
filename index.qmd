@@ -52,6 +52,10 @@ I am an Associate Professor of Marketing at University of Dayton. I'm studying c
 
 -   Choi, M., **Yoon, S.**, & Oh, J. "Development and Validation of the Korean Illness Perception Questionnaire (K-IPQ)." Health Communication (2016; in Korean) [\[PDF\]](./publications/2016_KJHC.pdf) \| [\[Journal\]](http://www.papersearch.net/thesis/article.asp?key=3490215)
 
+    -   [*한국어: "한국판 질병지각검사 (K-IPQ) 의 개발 및 타당화." 의료커뮤니케이션 11(2), 123-143, 2016*]{style="font-size: 0.9em;"}
+
 -   Uehara, T., Li, B., Kim, BM., **Yoon, S. S.**, Quach, QK., Kim, H., & Chon. TS. "Inferring conflicting behavior of zebrafish (Danio rerio) in response to food and predator based on a self-organizing map (SOM) and intermittency test." Ecological Informatics (2015) [\[PDF\]](./publications/2015_EI.pdf) \| [\[Journal\]](https://www.sciencedirect.com/science/article/pii/S1574954114001411)
 
 -   **Yoon, S.**, & Shin, H. J. "The Effect of Substitute on WTA and WTP." The Korean Journal of Cognitive and Biological Psychology (2010; in Korean) [\[PDF\]](./publications/2010_KJCBP.pdf)
+
+    -   [*한국어: "대체재의 가용 여부가 WTA와 WTP에 미치는 영향." 한국심리학회: 인지 및 생물 22(4), 601-619, 2010*]{style="font-size: 0.9em;"}
