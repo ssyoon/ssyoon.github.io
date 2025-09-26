@@ -1,7 +1,0 @@
----
-title: "Teaching"
----
-
-- Simple Linear Regression
-
-- Multiple Linear Regression

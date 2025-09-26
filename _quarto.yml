@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  title: "Sangsuk Yoon"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "Home"
+      - index.qmd
+      
+    right:
+    - icon: envelope-open
+      href: mailto:syoon1@udayton.edu
+    - icon: github
+      href: https://github.com/ssyoon
+    - icon: twitter-x
+      href: https://twitter.com/mind314
+    # - icon: orcid
+    #   href: https://orcid.org/0000-0002-3399-1096
+
+format:
+  html:
+    theme: simple
+    css: styles.css
+    toc: true
+
+
+editor: visual
+
