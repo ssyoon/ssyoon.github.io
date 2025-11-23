@@ -7,9 +7,9 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: "Home"
-      - href: publications.qmd
-        text: "Publications"
+        text: " "
+      # - href: publications.qmd
+      #   text: "Publications"
     right:
       - icon: envelope
         href: "mailto:syoon1@udayton.edu"
