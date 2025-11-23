@@ -18,7 +18,6 @@ title: ""
 </script>
 ```
 
-
 **Welcome!**
 
 I am an Associate Professor of Marketing at University of Dayton. My research examines the cognitive biases underlying human decision making, with a focus on how these biases shape consumer behavior in real-world contexts.
@@ -42,15 +41,16 @@ I am also interested in using a multi-methodological approach, including behavio
 - MA. in Psychology (Cognitive), Pusan National University, 2011
 - BBA. in Business Administration & BA. in Psychology, Pusan National University, 2006
 
-</br>
 
-## Working Papers
+
+#### Working Papers
 -   Bahník, Š. & **Yoon, S.** "Anchoring effect in business" [\[PDF\]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SlY_MUwAAAAJ&sortby=pubdate&citation_for_view=SlY_MUwAAAAJ:HDshCWvjkbEC)
 
 -   **Yoon, S.** & Fong, N. "Incongruent Effects of Anchoring on Valuation and Choice" [\[PDF\]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SlY_MUwAAAAJ&sortby=pubdate&citation_for_view=SlY_MUwAAAAJ:-f6ydRqryjwC)
 
 
-## Publications
+
+#### Publications
 
 -   **Yoon, S.** & Venkatraman, V. "Choosing versus rejecting: The effect of decision mode on subsequent preferential choices" *Journal of Behavioral Decision Making* (2025) [\[PDF\]](./publications/2025_JBDM.pdf) \| [\[OSF\]](https://osf.io/4nqws/) \| [\[Journal\]](https://onlinelibrary.wiley.com/doi/10.1002/bdm.70032)
 
