@@ -1,5 +1,8 @@
 ---
 title: ""
+toc: false
+# about: 
+  # template: jolla 
 ---
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -24,33 +27,31 @@ I am an Associate Professor of Marketing at University of Dayton. My research ex
 
 I study how findings from laboratory studies in judgment and decision making apply to various consumer decisions, including consumer preferential choices, financial decision making, and risk communications. My work bridges cognitive psychology and consumer behavior to understand not just what decisions people make, but why they make them.
 
-I am also interested in using a multi-methodological approach, including behavioral, computational modeling, eye-tracking, and fMRI, to obtain converging evidence about the underlying mechanisms of cognitive biases and decision making processes. 
-
+I am also interested in using a multi-methodological approach, including behavioral, computational modeling, eye-tracking, and fMRI, to obtain converging evidence about the underlying mechanisms of cognitive biases and decision making processes.
 
 #### Work Experience
-- Associate Professor, University of Dayton, 2025 - Present
-- Assistant Professor, University of Dayton, 2018 - 2025
-- Graduate Research Assistant, [Center for Applied Research in Decision Making (CARD)](https://www.fox.temple.edu/faculty-research/institutes-centers/center-applied-research-decision-making), Temple University, 2012 - 2018
-- Research Assistant, Ecology and Behavior System Lab, Pusan National University, 2011
-- Research Assistant, Cognition Lab, Pusan National University, 2009-2010
 
+-   Associate Professor, University of Dayton, 2025 - Present
+-   Assistant Professor, University of Dayton, 2018 - 2025
+-   Graduate Research Assistant, [Center for Applied Research in Decision Making (CARD)](https://www.fox.temple.edu/faculty-research/institutes-centers/center-applied-research-decision-making), Temple University, 2012 - 2018
+-   Research Assistant, Ecology and Behavior System Lab, Pusan National University, 2011
+-   Research Assistant, Cognition Lab, Pusan National University, 2009-2010
 
-#### Education 
+#### Education
 
-- Ph.D. in Business Administration (Interdisciplinary Studies - Marketing), Temple University, 2018
-- MA. in Psychology (Cognitive), Pusan National University, 2011
-- BBA. in Business Administration & BA. in Psychology, Pusan National University, 2006
-
-
+-   Ph.D. in Business Administration (Interdisciplinary Studies - Marketing), Temple University, 2018
+-   MA. in Psychology (Cognitive), Pusan National University, 2011
+-   BBA. in Business Administration & BA. in Psychology, Pusan National University, 2006
 
 #### Working Papers
+
 -   Bahník, Š. & **Yoon, S.** "Anchoring effect in business" [\[PDF\]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SlY_MUwAAAAJ&sortby=pubdate&citation_for_view=SlY_MUwAAAAJ:HDshCWvjkbEC)
 
 -   **Yoon, S.** & Fong, N. "Incongruent Effects of Anchoring on Valuation and Choice" [\[PDF\]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SlY_MUwAAAAJ&sortby=pubdate&citation_for_view=SlY_MUwAAAAJ:-f6ydRqryjwC)
 
-
-
 #### Publications
+
+-   **SCORE Replicability Project**. "Investigating the replicability of the social and behavioural sciences" *Nature* (2026) [\[PDF\]](./publications/2026_Nature.pdf) \| [\[Journal\]](https://www.nature.com/articles/s41586-025-10078-y)
 
 -   **Yoon, S.** & Venkatraman, V. "Choosing versus rejecting: The effect of decision mode on subsequent preferential choices" *Journal of Behavioral Decision Making* (2025) [\[PDF\]](./publications/2025_JBDM.pdf) \| [\[OSF\]](https://osf.io/4nqws/) \| [\[Journal\]](https://onlinelibrary.wiley.com/doi/10.1002/bdm.70032)
 
